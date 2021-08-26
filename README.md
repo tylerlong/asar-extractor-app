@@ -1,2 +1,2 @@
-# asar-extractor-app
+# Asar Extractor
 Asar Extractor, extract asar archives.
